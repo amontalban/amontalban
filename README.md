@@ -18,7 +18,7 @@ Helping fast-moving startups cut cloud costs, scale infrastructure, and make Dev
 
 - 🌐 [andresmontalban.com](https://andresmontalban.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/andresmontalban)  
-- 📨 amontalban [at] devopx.com
+- 📨 amontalban [at] gmail.com
 
 ---
 
